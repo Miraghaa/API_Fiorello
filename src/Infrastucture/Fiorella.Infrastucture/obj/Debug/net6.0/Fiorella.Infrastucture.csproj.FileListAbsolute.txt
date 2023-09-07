@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\bin\Debug\net6.0\Fiorella.Infrastucture.deps.json
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\bin\Debug\net6.0\Fiorella.Infrastucture.dll
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\bin\Debug\net6.0\Fiorella.Infrastucture.pdb
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\bin\Debug\net6.0\Fiorello.Application.dll
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\bin\Debug\net6.0\Fiorello.Domain.dll
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\bin\Debug\net6.0\Fiorello.Application.pdb
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\bin\Debug\net6.0\Fiorello.Domain.pdb
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.AssemblyInfo.cs
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.csproj.CopyComplete
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.dll
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\refint\Fiorella.Infrastucture.dll
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\Fiorella.Infrastucture.pdb
+C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorella.Infrastucture\obj\Debug\net6.0\ref\Fiorella.Infrastucture.dll

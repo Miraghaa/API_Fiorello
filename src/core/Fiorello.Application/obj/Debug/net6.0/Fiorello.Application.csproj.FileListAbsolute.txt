@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\bin\Debug\net6.0\Fiorello.Application.deps.json
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\bin\Debug\net6.0\Fiorello.Application.dll
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\bin\Debug\net6.0\Fiorello.Application.pdb
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\bin\Debug\net6.0\Fiorello.Domain.dll
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\bin\Debug\net6.0\Fiorello.Domain.pdb
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.AssemblyInfo.cs
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.csproj.CopyComplete
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.dll
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\refint\Fiorello.Application.dll
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\Fiorello.Application.pdb
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Application\obj\Debug\net6.0\ref\Fiorello.Application.dll

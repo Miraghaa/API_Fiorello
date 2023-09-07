@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fiorello.Application/1.0.0": {
+        "dependencies": {
+          "Fiorello.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Fiorello.Application.dll": {}
+        }
+      },
+      "Fiorello.Domain/1.0.0": {
+        "runtime": {
+          "Fiorello.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fiorello.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fiorello.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

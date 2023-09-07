@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\bin\Debug\net6.0\Fiorello.Domain.deps.json
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\bin\Debug\net6.0\Fiorello.Domain.dll
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\bin\Debug\net6.0\Fiorello.Domain.pdb
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\Fiorello.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\Fiorello.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\Fiorello.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\Fiorello.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\Fiorello.Domain.dll
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\refint\Fiorello.Domain.dll
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\Fiorello.Domain.pdb
+C:\Users\USER\source\repos\Fiorello\src\core\Fiorello.Domain\obj\Debug\net6.0\ref\Fiorello.Domain.dll
