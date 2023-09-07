@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Fiorello.Persistence</id>
+    <version>1.0.0</version>
+    <authors>Fiorello.Persistence</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Fiorello.Application" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\USER\source\repos\Fiorello\src\Infrastucture\Fiorello.Persistence\bin\Debug\net6.0\Fiorello.Persistence.dll" target="lib\net6.0\Fiorello.Persistence.dll" />
+  </files>
+</package>
