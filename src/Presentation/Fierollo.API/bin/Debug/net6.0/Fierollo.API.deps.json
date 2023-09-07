@@ -503,7 +503,8 @@
       },
       "Fiorello.Application/1.0.0": {
         "dependencies": {
-          "Fiorello.Domain": "1.0.0"
+          "Fiorello.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.21"
         },
         "runtime": {
           "Fiorello.Application.dll": {}
