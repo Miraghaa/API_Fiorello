@@ -38,3 +38,8 @@ C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\obj\Debug\net6
 C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\obj\Debug\net6.0\Fierollo.API.pdb
 C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\obj\Debug\net6.0\Fierollo.API.genruntimeconfig.cache
 C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\obj\Debug\net6.0\ref\Fierollo.API.dll
+C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\Fiorello\src\Presentation\Fierollo.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
