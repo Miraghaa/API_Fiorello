@@ -1,5 +1,6 @@
 using Fiorello.Application.Validators.CategoryValidator;
 using Fiorello.Persistence.Contexts;
+using Fiorello.Persistence.Helpers.Mappers;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 
@@ -16,7 +17,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 //Fluent Validation
 builder.Services.AddValidatorsFromAssemblyContaining<CategoryCreateDtoValidator>();
-
+//Automapper paketini dependec yuklemelisen eger basqa yerden dependes edirsense oda boyu ehtimal
+builder.Services.AddAutoMapper(typeof(CategoryProfile).Assembly);
 var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
