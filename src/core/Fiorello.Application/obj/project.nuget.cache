@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nPzudTTDWRkWCZ90djIgSxaAoz8rd6EuxmZh9jN3iaumdMQJdU0nocZsOl/K0vuYA2Dqb0aRq9+IlmGUUYGS7Q==",
+  "dgSpecHash": "RZS2C80CTNQL0Lg/Xm39B4+8qKQlgWRqfjBsUvwWKMK5upkxTf7cMPHrj1cjuU4iG1mok/aXVwU5X70h6NP7iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\source\\repos\\Fiorello\\src\\core\\Fiorello.Application\\Fiorello.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.21\\microsoft.entityframeworkcore.6.0.21.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.21\\microsoft.entityframeworkcore.abstractions.6.0.21.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.21\\microsoft.entityframeworkcore.analyzers.6.0.21.nupkg.sha512",

@@ -7,7 +7,7 @@ public interface IReadRepository<T> : IRepositoriesBase<T> where T : BaseEntity,
 {
 	IQueryable<T> GetAll(Expression<Func<T, bool>> expression, bool isNotTracking = true, params string[] includes);
 	IQueryable<T> GetAllFiltered(Expression<Func<T, bool>> expression, int skip, int take, bool isNotTracking = true, params string[] includes);
-	IQueryable<T> GetAllFilteredOrderBy(Expression<Func<T, bool>> expression, Expression<Func<T, object>> expressionOrderBy, int skip, int take, bool isNotTracking = true, params string[] includes);
-	Task<T> FindAsync(int id);
-	T GetFiltered(Expression<Func<T, bool>> expression, bool isNotTracking = true);
+	IQueryable<T> GetAllFilteredOrderBy(Expression<Func<T, bool>> expression, Expression<Func<T, object>> expressionOrderBy, int skip, int take,bool OrderByDesc=true, bool isNotTracking = true, params string[] includes);
+	Task<T?> FindAsync(int id);
+    Task<T?> GetFiltered(Expression<Func<T, bool>> expression, bool isNotTracking = true);
 }

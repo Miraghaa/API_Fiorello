@@ -14,6 +14,26 @@
           "Fiorella.Infrastucture.dll": {}
         }
       },
+      "FluentValidation/11.7.1": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.7.1.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.7.1": {
+        "dependencies": {
+          "FluentValidation": "11.7.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.7.1.0"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore/6.0.21": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "6.0.21",
@@ -152,6 +172,7 @@
       "Fiorello.Application/1.0.0": {
         "dependencies": {
           "Fiorello.Domain": "1.0.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.7.1",
           "Microsoft.EntityFrameworkCore": "6.0.21"
         },
         "runtime": {
@@ -170,6 +191,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/11.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w9Al4gls6iVGFbTd/NPOPlwzqDTghH+ntL4c4FYUatc+LeybpIwhYArLykZJP/VjF2n3ihj3ws+1yd7KR5lQlg==",
+      "path": "fluentvalidation/11.7.1",
+      "hashPath": "fluentvalidation.11.7.1.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q3R6mJ0SzWvHJkJ/9d4FAZeuhJp6Cv8WpQItRWyN0v5qxKtwZt6Ol/8HNv8THDOrywTdsNUVKpgDJalVY7hUdw==",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.7.1",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/6.0.21": {
       "type": "package",

@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="Implementations\Services\" />
-    <Folder Include="Implementations\Repositories\" />
     <Folder Include="Extentsions\" />
     <Folder Include="Helpers\" />
   </ItemGroup>
